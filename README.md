@@ -1,3 +1,5 @@
+# PROYECTO MOVIDO A BITBUCKET: https://bitbucket.org/softwhisper/will-paginate
+
 # will_paginate
 
 will_paginate is a pagination library that integrates with Ruby on Rails, Sinatra, Merb, DataMapper and Sequel.
